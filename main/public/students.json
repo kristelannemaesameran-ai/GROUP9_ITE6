@@ -1,0 +1,74 @@
+{
+  "student_information": [
+    {
+      "id": 1,
+      "name": "Kristel Anne Mae T. Sameran",
+      "age": 19,
+      "address": "P-7, Brgy.Carayman, Calbayog City, Samar",
+      "degree": "BS Information Technology"
+    },
+    {
+      "id": 2,
+      "name": "Maria Angelica Colico",
+      "age": 19,
+      "address": "Brgy. Obrero, Calbayog City, Samar",
+      "degree": "BS Information Technology"
+    },
+    {
+      "id": 3,
+      "name": "Athena Jean Daguman",
+      "age": 19,
+      "address": "Brgy. Obrero, Calbayog City, Samar",
+      "degree": "BS Information Technology"
+    },
+    {
+      "id": 4,
+      "name": "Stephen Carl Salor",
+      "age": 19,
+      "address": "Calbayog City, Samar",
+      "degree": "BS Information Technology"
+    },
+    {
+      "id": 5,
+      "name": "Elesaldy Tarrayo",
+      "age": 22,
+      "address": "P-5, Brgy. Carayman, Calbayog City, Samar",
+      "degree": "BS Information Technology"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Rocima",
+      "age": 19,
+      "address": "Tinambacan District, Calbayog City, Samar",
+      "degree": "BS Information Technology"
+    },
+    {
+      "id": 7,
+      "name": "Remalyn Saucero",
+      "age": 19,
+      "address": "Brgy. Lapaan, Calbayog City, Samar",
+      "degree": "BS Information Technology"
+    },
+    {
+      "id": 8,
+      "name": "Jeorge Ivan Magbutay",
+      "age": 19,
+      "address": "Cautod, Sta. Margarita, Samar",
+      "degree": "BS Information Technology"
+    },
+    {
+      "id": 9,
+      "name": "Renz Limpiado",
+      "age": 19,
+      "address": "Motorpol, Calbayog City, Samar",
+      "degree": "BS Information Technology"
+    },
+    {
+      "id": 10,
+      "name": "Lean Lopar",
+      "age": 19,
+      "address": "Brgy. Cogon, Calbayog City, Samar",
+      "degree": "BS Information Technology"
+    }
+  ]
+}
